@@ -25,10 +25,10 @@
 
 ✔ You can call me ***Mati*** 😊 <br>
 ✔ I’m currently Developing a ecommerce with **React,Redux and Tailwind Css**<br>
-✔ I’m currently learning about **Next js and Three js*<br>
+✔ I’m currently learning about **Next js and Three js**<br>
 ✔ I’m always open to collaborate with any **Open -source project**<br>
 ✔ Ask from me anything you want, and i will answer in matter of minutes if i am avalable<br>
-✔ Fact: *Im always learning news frontend technologies*<br><br><br><br>
+✔ Fact about me: *I enjoy learning about news frontend technologies*<br><br><br><br>
  
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***
