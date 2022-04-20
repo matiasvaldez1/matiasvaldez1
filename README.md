@@ -24,7 +24,7 @@
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
 ✔ You can call me ***Mati*** 😊 <br>
-✔ I’m currently looking for **first job as Web Developer**<br>
+✔ I’m currently looking for my **first job as Web Developer**<br>
 ✔ I’m currently learning about **Next js and Three js**<br>
 ✔ I’m always open to collaborate with any **Open -source project**<br>
 ✔ Ask from me anything you want, and i will answer in matter of minutes if i am avalable<br>
@@ -48,4 +48,4 @@
 <code><img height="50" src="https://raw.githubusercontent.com/file-icons/DevOpicons/2c2bf2bdb6507b8e4bfe695c1d54d639fbfed479/svg/scrum.svg"></code>
  <code><img height="50" src="https://raw.githubusercontent.com/AliasIO/wappalyzer/a476e66d8f96562c970d4f09fb2613d566289d54/src/drivers/webextension/images/icons/GitHub.svg"></code>
 
-
+ 
