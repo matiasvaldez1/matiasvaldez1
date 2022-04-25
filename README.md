@@ -46,6 +46,5 @@
   <code><img height="50" style="background-color:white" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></code>
    <code> <img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> </code>
 <code><img height="50" src="https://raw.githubusercontent.com/file-icons/DevOpicons/2c2bf2bdb6507b8e4bfe695c1d54d639fbfed479/svg/scrum.svg"></code>
- <code><img height="50" src="https://raw.githubusercontent.com/AliasIO/wappalyzer/a476e66d8f96562c970d4f09fb2613d566289d54/src/drivers/webextension/images/icons/GitHub.svg"></code>
 
  
