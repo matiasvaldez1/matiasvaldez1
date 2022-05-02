@@ -12,7 +12,7 @@
 <p align="center">
   <em>
    Hello, I am Matias Valdez a graduated from <b>Henry Full Stack Bootcamp </b> <br>
-    <b>an active self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Frontend passionate</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>in love</b>
+    <b>a proactive self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Frontend passionate</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>in love</b>
     with <b>Frontend web development</b> and always looking to deliver the most interactve, clean and awesome experience for the user
   </em> 
   <br>
@@ -25,10 +25,10 @@
 
 ✔ You can call me ***Mati*** 😊 <br>
 ✔ I’m currently looking for my **first job as Web Developer**<br>
-✔ I’m currently learning about **Next js and Three js**<br>
-✔ I’m always open to collaborate with any **Open -source project**<br>
+✔ I’m currently learning about **UI design and Three js**<br>
+✔ I’m always open to collaborate with any **Open-source project**<br>
 ✔ Ask from me anything you want, and i will answer in matter of minutes if i am avalable<br>
-✔ Fact about me: *I enjoy learning about news frontend technologies*<br><br><br><br>
+✔ Fact about me: *I really enjoy learning about news frontend technologies*<br><br><br><br>
  
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***
