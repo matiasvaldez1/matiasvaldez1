@@ -24,11 +24,11 @@
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
 ✔ You can call me ***Mati*** 😊 <br>
-✔ I’m currently looking for my **first job as Web Developer**<br>
-✔ I’m currently learning about **UI design and Three js**<br>
+✔ I’m currently working as **Full Stack Web Developer**<br>
+✔ I’m currently learning about **Rust and Three js**<br>
 ✔ I’m always open to collaborate with any **Open-source project**<br>
 ✔ Ask from me anything you want, and i will answer in matter of minutes if i am avalable<br>
-✔ Fact about me: *I really enjoy learning about news frontend technologies*<br><br><br><br>
+✔ Fact about me: *I really enjoy learning about news programming technologies*<br><br><br><br>
  
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***
